@@ -34,15 +34,15 @@ Typescript <br/>
 
 👷 How to run?
 
-## Clone Repository
+## Clone repository
 <article> git clone https://github.com/GabrielNunes12/league-of-legends-clone.git </article>
 
 ## 💻 Run Web Project
 
-Install Dependencies
-$ yarn install
+Install dependencies <br/>
+$ yarn install 
 
-Run Aplication
+Run aplication <br/>
 $ yarn start
 
 Go to http://localhost:3000/ to see the result.
