@@ -39,6 +39,15 @@ export const LoginWrapper = styled.div`
     justify-content: space-around;
     padding: 10px;
   }
+  p {
+    font-size: 32px;
+    font-family: monospace;
+    margin-bottom: 20px;
+  }
+  small {
+    font-size: 22px;
+    font-family: monospace;
+  }
 `
 export const LoginButton = styled.button`
   padding: 10px;
