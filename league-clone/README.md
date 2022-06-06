@@ -6,7 +6,7 @@ English
 
 Built with ❤︎ by Gabriel Nunes
 
-📌 Table of Contents <br/>
+## 📌 Table of Contents <br/>
 Visualization <br/>
 Technologies <br/>
 What I'd learn <br/>
@@ -15,24 +15,22 @@ Found a bug? Missing a specific feature? <br/>
 Contributing <br/>
 License <br/>
 
-👀 Visualization <br/>
+## 👀 Visualization <br/>
 👉 demo: ![image](https://user-images.githubusercontent.com/48297244/172210877-89650ebd-b444-453c-94d6-f4ab8aa12b54.png) <br/>
 
 
-💻 Technologies <br/>
+## 💻 Technologies <br/>
 This project was made using the follow technologies: <br/>
 
 Reactjs <br/>
 Styled-Components <br/>
 Typescript <br/>
 
-👷 What I'd learn in this project <br/>
+## 👷 What I'd learn in this project <br/>
 
 * Typescript types / interfaces <br/>
 * How to type react state using typescript <br/>
 * How to utilize styled-components with typescript properly <br/>
-
-👷 How to run?
 
 ## Clone repository
 <article> git clone https://github.com/GabrielNunes12/league-of-legends-clone.git </article>
